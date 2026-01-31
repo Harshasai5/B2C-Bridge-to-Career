@@ -79,12 +79,9 @@ This structure reduces manual effort, avoids miscommunication, and improves plac
 ---
 
 ## 🚀 Future Scope
-- Email & SMS integration  
 - Alumni & mentor connections  
 - Document verification  
 - Interview scheduling hub  
-- AI chatbot support  
-- Cloud deployment  
 
 ---
 
@@ -104,5 +101,6 @@ SRKR Engineering College
 ---
 
 > *B2C – A smarter bridge between students and career opportunities.*
+
 
 ⭐ Star this repo if you found it useful!
