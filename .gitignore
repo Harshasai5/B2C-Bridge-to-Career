@@ -1,0 +1,59 @@
+# ========================
+# OS / System files
+# ========================
+.DS_Store
+Thumbs.db
+
+# ========================
+# Environment & secrets
+# ========================
+.env
+
+# ========================
+# Uploads (dynamic user data)
+# ========================
+admin/uploads/
+user/uploads/
+
+# ========================
+# Logs
+# ========================
+*.log
+
+# ========================
+# Composer
+# ========================
+vendor/
+
+# ========================
+# Python cache & venv
+# ========================
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.env/
+
+# ========================
+# IDE / Editor settings
+# ========================
+.vscode/
+.idea/
+
+# ========================
+# Database dumps (optional)
+# ========================
+*.sql
+# Uncomment below if you WANT to track b2c.sql
+# !b2c.sql
+
+# ========================
+# Node (if added later)
+# ========================
+node_modules/
+
+# ========================
+# Temporary files
+# ========================
+*.tmp
+*.swp
